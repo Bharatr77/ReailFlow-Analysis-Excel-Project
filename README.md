@@ -21,5 +21,7 @@ This project focuses on analyzing 3 years of Fast-Moving Consumer Goods data to 
 - **Channel Performance:** Sales distribution across **Retail, Discount, and E-commerce** channels.
 - **Pricing Strategy:** Analysis of `price_unit` impact on total units sold.
 - **Inventory Alerts:** Identified periods where stock levels were insufficient to meet demand.
-- <img width="1186" height="657" alt="image" src="https://github.com/user-attachments/assets/f0ec3d07-213d-479f-9eec-4f8a3e357868" />
+
+<img width="1108" height="602" alt="image" src="https://github.com/user-attachments/assets/19efb6b0-3895-4e01-b7ef-1ae466dcc4b4" />
+
 
